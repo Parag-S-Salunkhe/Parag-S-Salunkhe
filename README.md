@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/search?q=banner+cloud+computing+gif&tbm=isch&ved=2ahUKEwjv_8G73O6AAxWiTEEAHe0bAxYQ2-cCegQIABAA&oq=banner+cloud+computing+gif&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHjoHCAAQGBCABDoECCMQJzoHCAAQigUQQzoICAAQgAQQsQM6BAgAEAM6CggAEIoFELEDEEM6BAgAEB46BggAEAUQHlCaEFjXUmDxVWgAcAB4AIABaogBowqSAQQyNi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=rNrjZO_5FaKZhbIP7beMsAE&bih=923&biw=1920&rlz=1C1CHBF_enIE1034IE1034#imgrc=3oUB74YhBmpeIM&imgdii=iw0gno9sZa9AUM)]
+
 <h1 align="center">Hi 👋, I'm Parag Salunkhe</h1>
 <h3 align="center">Passionate about Cloud</h3>
-<img align=”right” alt=”Coding” width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag-s-salunkhe&label=Profile%20views&color=0e75b6&style=flat" alt="parag-s-salunkhe" /> </p>
 
