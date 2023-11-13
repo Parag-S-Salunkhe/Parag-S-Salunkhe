@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **paragsalunkhe27@gmail.com**
 
-- ⚡ Fun fact **Can solve a Rubik's Cube in under two minutes**
+- ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes**
 
 
 <p align="left">
