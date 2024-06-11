@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag-s-salunkhe&label=Profile%20views&color=0e75b6&style=flat" alt="parag-s-salunkhe" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, ML Ops**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻Website [https://paragsalunkhe.me/](https://paragsalunkhe.me/)
 
