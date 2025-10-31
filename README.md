@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parag Salunkhe</h1>
-<h3 align="center">Stay Curious, Stay Creative</h3>
+<h3 align="center">Cloud Ops | DevOps | Datacentre</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag-s-salunkhe&label=Profile%20views&color=0e75b6&style=flat" alt="parag-s-salunkhe" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻Website [https://paragsalunkhe.me/](https://paragsalunkhe.me/)
+- 👨‍💻Website [https://paragsalunkhe.me/](https://www.paragsalunkhe.me/)
 
 - 💬 Ask me about **Cloud Solutions**
 
