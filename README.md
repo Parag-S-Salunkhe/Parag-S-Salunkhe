@@ -7,9 +7,9 @@
 
 - 👨‍💻Website [https://paragsalunkhe.me/](https://www.paragsalunkhe.me/)
 
-- 💬 Ask me about **Cloud Solutions**
+- 💬 Ask me about **Data Centre Architecture and Cloud Solutions**
 
-- 📫 How to reach me **paragsalunkhe27@gmail.com**
+- 📫 How to reach me **paragsalunkhe28@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under two minutes**
 
