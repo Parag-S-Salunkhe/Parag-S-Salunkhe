@@ -1,5 +1,7 @@
 # ⌚ Galaxy Watch faces
 
+📦 **Full project, scripts and a 5-part guide:** [galaxy-watch4](https://github.com/Parag-S-Salunkhe/galaxy-watch4) · 📣 [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7523319320005722112/)
+
 Two custom faces for my Galaxy Watch 4, written in Google's **Watch Face Format** (XML) and installed over wireless adb. No rooting.
 
 <p align="center">

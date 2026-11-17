@@ -25,4 +25,6 @@ flowchart LR
 
 **Built with:** Claude Code skill, read-only log access through [keychain wrappers](../zero-password-agent-access/).
 
+🧰 **Install a generic version:** [`rca`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/rca) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+
 [← AI Lab](../README.md)

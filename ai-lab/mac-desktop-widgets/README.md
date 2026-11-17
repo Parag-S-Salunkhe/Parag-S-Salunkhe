@@ -1,5 +1,7 @@
 # 🖥️ Mac desktop widgets
 
+📦 **Full project, widget code and a 4-part guide:** [mac-desktop-widgets](https://github.com/Parag-S-Salunkhe/mac-desktop-widgets)
+
 A clean desktop with three text overlays straight on the photo: no cards, just shadowed text on the right edge. Built with [Übersicht](https://tracesof.net/uebersicht/) widgets (JSX) in one afternoon with Claude Code.
 
 | Widget | What it shows |

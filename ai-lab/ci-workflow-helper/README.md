@@ -22,4 +22,6 @@ flowchart LR
 
 **Built with:** Claude Code skill, GitHub CLI (`gh`), GitHub Actions.
 
+🧰 **Install a generic version:** [`workflow-runner`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/workflow-runner) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+
 [← AI Lab](../README.md)

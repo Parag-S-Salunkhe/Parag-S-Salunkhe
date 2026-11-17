@@ -24,8 +24,9 @@ The work entries are cleaned up: no company names, hosts, IPs, internal tools, d
 | | Write-up | One line |
 |---|---|---|
 | 🍝 | [paragsalunkhe.me](personal-website/) | My supper-club zine; v2 is "one evening" in 3D scenes |
-| 🖥️ | [Mac desktop widgets](mac-desktop-widgets/) | Clocks, live system stats and a daily wallpaper, drawn on the desktop |
-| ⌚ | [Galaxy Watch faces](galaxy-watch-faces/) | Custom watch faces built and installed without rooting the watch |
+| 🖥️ | [Mac desktop widgets](mac-desktop-widgets/) · [repo](https://github.com/Parag-S-Salunkhe/mac-desktop-widgets) | Clocks, live system stats and a daily wallpaper, drawn on the desktop |
+| ⌚ | [Galaxy Watch 4 tune-up](galaxy-watch-faces/) · [repo](https://github.com/Parag-S-Salunkhe/galaxy-watch4) | A 5-year-old watch tuned without root, two custom faces, AOD on the low-power chip |
 | ✍️ | [LinkedIn writing skill](linkedin-writing-skill/) | Drafts in my voice, then checks reach and "sounds like AI" tells |
+| 🧰 | [Claude Code skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) (repo) | Generic versions of 7 skills I use every day, ready to install |
 
 [← back to profile](../README.md)

@@ -13,5 +13,7 @@
 <text x="49.4" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9">Übersicht</text>
 <rect x="86.9" y="142" width="34.5" height="20" rx="10" fill="#21262d"/>
 <text x="104.1" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9">JSX</text>
-<text x="382" y="156" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e9a66b">Read →</text>
+<rect x="127.3" y="142" width="43.9" height="20" rx="10" fill="#21262d"/>
+<text x="149.3" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9">guide</text>
+<text x="382" y="156" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#e9a66b">Repo →</text>
 </svg>

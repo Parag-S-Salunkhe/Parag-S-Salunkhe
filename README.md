@@ -88,7 +88,7 @@
 
 ## 🧪 Built with AI
 
-Real tools I use, built by pairing with Claude Code. Each card opens the write-up: **the problem, how it was built and what I learned.** Work entries are cleaned up: no company names, internal tools or device counts.
+Real tools I use, built by pairing with Claude Code. Each card opens the write-up: **the problem, how it was built and what I learned.** Side builds marked *Repo* open the full project with code and a step-by-step guide. Work entries are cleaned up: no company names, internal tools or device counts.
 
 #### At work
 
@@ -111,9 +111,9 @@ Real tools I use, built by pairing with Claude Code. Each card opens the write-u
 
 <p align="center">
 <a href="https://github.com/Parag-S-Salunkhe/Parag-S-Salunkhe/tree/main/ai-lab/personal-website/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/personal-website-dark.svg" /><img src="assets/cards/personal-website-light.svg" width="49%" alt="paragsalunkhe.me: My supper-club zine. v2 (in progress) turns the site into one evening of 3D scenes, hardened and tested." /></picture></a>
-<a href="https://github.com/Parag-S-Salunkhe/Parag-S-Salunkhe/tree/main/ai-lab/mac-desktop-widgets/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mac-desktop-widgets-dark.svg" /><img src="assets/cards/mac-desktop-widgets-light.svg" width="49%" alt="Mac desktop widgets: Three time zones, CPU/GPU/memory rings, network, one-click &quot;free up memory&quot; and a daily 4K wallpaper." /></picture></a>
-<a href="https://github.com/Parag-S-Salunkhe/Parag-S-Salunkhe/tree/main/ai-lab/galaxy-watch-faces/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/galaxy-watch-faces-dark.svg" /><img src="assets/cards/galaxy-watch-faces-light.svg" width="49%" alt="Galaxy Watch faces: Two custom faces in Watch Face Format, installed over wireless adb, no root. Plus the hunt for a blank always-on display." /></picture></a>
-<a href="https://github.com/Parag-S-Salunkhe/Parag-S-Salunkhe/tree/main/ai-lab/linkedin-writing-skill/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/linkedin-writing-skill-dark.svg" /><img src="assets/cards/linkedin-writing-skill-light.svg" width="49%" alt="LinkedIn writing skill: Drafts posts in my voice from my own facts, then checks reach rules and &quot;sounds like AI&quot; tells." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/mac-desktop-widgets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mac-desktop-widgets-dark.svg" /><img src="assets/cards/mac-desktop-widgets-light.svg" width="49%" alt="Mac desktop widgets: Three time zones, CPU/GPU/memory rings, network, one-click &quot;free up memory&quot; and a daily 4K wallpaper." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/galaxy-watch4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/galaxy-watch-faces-dark.svg" /><img src="assets/cards/galaxy-watch-faces-light.svg" width="49%" alt="Galaxy Watch 4 tune-up: A 5-year-old watch tuned over wireless adb: no root, every change logged with its undo. Two custom faces and AOD on the low-power chip." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/claude-code-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/claude-code-skills-dark.svg" /><img src="assets/cards/claude-code-skills-light.svg" width="49%" alt="Claude Code skills: Generic versions of the skills I use daily: RCA, save-learnings, notes lint, park-it, secrets guard, CI runner and a LinkedIn writer." /></picture></a>
 </p>
 
 ## ☁️ Cloud & DevOps projects

@@ -25,4 +25,6 @@ flowchart LR
 
 **Built with:** Claude Code skill, Markdown runbooks, a cloud doc connector, Python lint.
 
+🧰 **Install a generic version:** [`save-learnings`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/save-learnings) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+
 [← AI Lab](../README.md)
