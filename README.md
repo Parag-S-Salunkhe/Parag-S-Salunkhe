@@ -88,7 +88,7 @@
 
 ## 🧪 Built with AI
 
-Real tools I use, built by pairing with Claude Code. Each card opens the write-up: **the problem, how it was built and what I learned.** Side builds marked *Repo* open the full project with code and a step-by-step guide. Work entries are cleaned up: no company names, internal tools or device counts.
+Real tools I use, built by pairing with Claude Code. Each card opens the write-up: **the problem, how it was built and what I learned.** Side builds marked *Repo* open the full project with code and a step-by-step guide.
 
 #### At work
 
@@ -113,7 +113,7 @@ Real tools I use, built by pairing with Claude Code. Each card opens the write-u
 <a href="https://github.com/Parag-S-Salunkhe/Parag-S-Salunkhe/tree/main/ai-lab/personal-website/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/personal-website-dark.svg" /><img src="assets/cards/personal-website-light.svg" width="49%" alt="paragsalunkhe.me: My supper-club zine. v2 (in progress) turns the site into one evening of 3D scenes, hardened and tested." /></picture></a>
 <a href="https://github.com/Parag-S-Salunkhe/mac-desktop-widgets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mac-desktop-widgets-dark.svg" /><img src="assets/cards/mac-desktop-widgets-light.svg" width="49%" alt="Mac desktop widgets: Three time zones, CPU/GPU/memory rings, network, one-click &quot;free up memory&quot; and a daily 4K wallpaper." /></picture></a>
 <a href="https://github.com/Parag-S-Salunkhe/galaxy-watch4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/galaxy-watch-faces-dark.svg" /><img src="assets/cards/galaxy-watch-faces-light.svg" width="49%" alt="Galaxy Watch 4 tune-up: A 5-year-old watch tuned over wireless adb: no root, every change logged with its undo. Two custom faces and AOD on the low-power chip." /></picture></a>
-<a href="https://github.com/Parag-S-Salunkhe/claude-code-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/claude-code-skills-dark.svg" /><img src="assets/cards/claude-code-skills-light.svg" width="49%" alt="Claude Code skills: Generic versions of the skills I use daily: RCA, save-learnings, notes lint, park-it, secrets guard, CI runner and a LinkedIn writer." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/claude-code-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/claude-code-skills-dark.svg" /><img src="assets/cards/claude-code-skills-light.svg" width="49%" alt="Claude Code skills: The skills I use every day: RCA, save-learnings, notes lint, park-it, secrets guard, CI runner and a LinkedIn writer." /></picture></a>
 </p>
 
 ## ☁️ Cloud & DevOps projects

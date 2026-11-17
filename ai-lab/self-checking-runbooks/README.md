@@ -31,6 +31,6 @@ flowchart LR
 
 **Built with:** Claude Code, Python (~700-line linter + small helpers), a SessionStart hook for the weekly run.
 
-🧰 **Install a generic version:** [`notes-lint`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/notes-lint) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+🧰 **Install it:** [`notes-lint`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/notes-lint) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo.
 
 [← AI Lab](../README.md)

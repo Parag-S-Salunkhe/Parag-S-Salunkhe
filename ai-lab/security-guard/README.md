@@ -17,6 +17,6 @@
 
 **Built with:** Claude Code skill, Python, macOS Keychain, Have I Been Pwned range API.
 
-🧰 **Install a generic version:** [`secrets-guard`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/secrets-guard) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+🧰 **Install it:** [`secrets-guard`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/secrets-guard) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo.
 
 [← AI Lab](../README.md)

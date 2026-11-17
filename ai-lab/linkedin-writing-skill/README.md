@@ -21,6 +21,6 @@ flowchart LR
 
 **Built with:** Claude Code skill, Python checker with self-test, eval set.
 
-🧰 **Install a generic version:** [`linkedin-post`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/linkedin-post) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo (same rules, no internal details).
+🧰 **Install it:** [`linkedin-post`](https://github.com/Parag-S-Salunkhe/claude-code-skills/tree/main/skills/linkedin-post) in my [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) repo.
 
 [← AI Lab](../README.md)
