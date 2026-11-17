@@ -19,7 +19,7 @@
 | The real problem | Speed and ads | Privacy, ads and comfort |
 | Full-screen ads a day | 15 → **0** | 17 → **0** |
 | Free memory | 1.75 GB → **~3.4 GB** (~4.0 GB a day later) | ~2.8 → ~3.1 GB (it was never short) |
-| Storage | **~34 GB freed** (~24 GB of it cache) | 128 → **142 GB free** (~12.3 GB of cache) |
+| Storage | **~34 GB freed**; ~24 GB of cache cleared | 128 → **142 GB free**; ~12.3 GB of cache cleared |
 | Apps removed | **30**, plus 7 pre-installed | **14** (83 → 71 apps) |
 | Afterwards | A day later: no ads, no new installs | Ads gone, app updates running again |
 
@@ -29,7 +29,7 @@
 - It used about **1.25 GB of memory** and showed **15 full-screen ads in one day**.
 - **No camera can measure blood pressure.** Any app that says it can is a scam.
 - 30 apps removed, plus 7 pre-installed ones, then about 24 GB of cache cleared.
-- Then the comfort bits: Chrome as the default browser, notifications cut to the useful ones, Gboard in the family's languages and animations turned off for speed.
+- Then the comfort bits: Chrome as the default browser, notifications cut to the useful ones, Gboard in the family's languages, virtual RAM off and animations reduced.
 - **A day later:** no ads, no new installs, about 4.0 GB of free memory.
 
 ## Mom's phone: newer, still not safe

@@ -43,7 +43,7 @@ sequenceDiagram
 Two ideas make it work on a network that's already live:
 
 - **ProxyDHCP.** The boot server never hands out addresses and the site's DHCP server isn't touched. The boot server only answers the "where do I boot from?" half of the question. That's why it could be added without changing anything else on the network.
-- **TFTP for small, HTTP for big.** UEFI firmware only speaks TFTP, which is simple and slow. So TFTP carries just the bootloaders, kernel and initrd. The ISO, the answers file and the bundle come over HTTP.
+- **TFTP for small, HTTP for big.** PXE firmware fetches its first files over TFTP, which is simple and slow. So TFTP carries just the bootloaders, kernel and initrd. The ISO, the answers file and the bundle come over HTTP.
 
 The whole ProxyDHCP and TFTP side is one dnsmasq file:
 
@@ -129,7 +129,7 @@ Every row below happened on the way.
 |---|---|---|
 | The firmware never asks for a boot file | UEFI firmware ignored the boot options in the normal DHCP reply | ProxyDHCP on the boot server, port 4011 open |
 | dnsmasq logs `failed sending <file>` | TFTP sends data from a new port. With the kernel's conntrack helper off, the firewall didn't see it as related and dropped it | `net.netfilter.nf_conntrack_helper=1` and load `nf_conntrack_tftp` |
-| Boot stops at a `grub>` prompt | GRUB 2.06's network boot couldn't reliably find its own server on this firmware. A second DHCP server on the segment made it worse | Signed GRUB 2.12 from Ubuntu 24.04's package: same signature chain, Secure Boot still on |
+| Boot stops at a `grub>` prompt | GRUB 2.06's network boot couldn't reliably find its own server on this firmware. A second DHCP server on the segment makes it worse | Signed GRUB 2.12 from Ubuntu 24.04's package (same signature chain, Secure Boot still on) fixed most of it. If the other DHCP server answers first it can still happen: type `configfile (tftp,<boot-server>)/grub/grub.cfg` |
 | The installer asks every question, as if there were no answers file | One unquoted YAML line containing `: ` made the whole file invalid. cloud-init dropped it without anything on screen | Quote the line, and run a YAML parser on `user-data` before every change goes live |
 | The machine reinstalls itself on every reboot | Menu entry 0 was "Install" | Entry 0 is now "Boot from local disk" |
 | Kernel panic on first boot | The bundle's real `lib/` folder replaced Ubuntu's `/lib → usr/lib` link | `--keep-directory-symlink` (the story below) |
