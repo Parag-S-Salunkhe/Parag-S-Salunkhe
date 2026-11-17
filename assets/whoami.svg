@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="306" viewBox="0 0 840 306" role="img" aria-label="Parag Salunkhe. Role: Datacentre &amp; cloud ops engineer. Racks: iPhones · Android · Mac minis · GPU servers. Cloud: AWS Solutions Architect · Kubernetes · GitOps. AI: Claude Code every day · 11 skills built. Now: self-checking runbooks · website v2. Off: supper clubs · movie nights · cooking">
+<rect x="0.5" y="0.5" width="839" height="305" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12.5 0.5 h815 a12 12 0 0 1 12 12 v22 h-839 v-22 a12 12 0 0 1 12 -12z" fill="#161b22"/>
+<line x1="0.5" y1="34.5" x2="839.5" y2="34.5" stroke="#30363d"/>
+<circle cx="22" cy="17.5" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="17.5" r="6" fill="#febc2e"/>
+<circle cx="62" cy="17.5" r="6" fill="#28c840"/>
+<text x="420.0" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">parag — zsh</text>
+<text x="24" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#3fb950">parag@datacentre</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#e6edf3">% </tspan></text>
+<clipPath id="cmd"><rect x="201.6" y="49" height="20" width="0"><animate attributeName="width" values="0.0;8.6;17.2;25.8;34.4;43.0;51.6;60.2;82.8" calcMode="discrete" begin="0.2s" dur="0.6s" fill="freeze"/></rect></clipPath>
+<text x="24" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" clip-path="url(#cmd)" xml:space="preserve"><tspan fill-opacity="0">parag@datacentre ~ % </tspan><tspan fill="#e6edf3">neofetch</tspan></text>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.300;0.433;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.300;0.433;1" dur="3.0s" fill="freeze"/>
+<rect x="40" y="80" width="150" height="196" rx="10" fill="#1c2330" stroke="#30363d"/>
+<rect x="50" y="88" width="4" height="180" rx="2" fill="#2d3748"/>
+<rect x="176" y="88" width="4" height="180" rx="2" fill="#2d3748"/>
+<rect x="60" y="92" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="98" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="98" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="98" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="98" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="103.5" r="3" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="103.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="0.77s" repeatCount="indefinite"/></circle>
+<rect x="60" y="121" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="127" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="127" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="127" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="127" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="132.5" r="3" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="132.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.03s" repeatCount="indefinite"/></circle>
+<rect x="60" y="150" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="156" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="156" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="156" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="156" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="161.5" r="3" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="161.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="0.98s" repeatCount="indefinite"/></circle>
+<rect x="60" y="179" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="185" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="185" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="185" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="185" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="190.5" r="3" fill="#e3b341"><animate attributeName="opacity" values="1;0.25;1" dur="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="190.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.40s" repeatCount="indefinite"/></circle>
+<rect x="60" y="208" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="214" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="214" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="214" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="214" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="219.5" r="3" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="219.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.19s" repeatCount="indefinite"/></circle>
+<rect x="60" y="237" width="110" height="23" rx="4" fill="#232b38"/>
+<rect x="68" y="243" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="82" y="243" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="96" y="243" width="10" height="11" rx="2" fill="#2d3748"/>
+<rect x="110" y="243" width="10" height="11" rx="2" fill="#2d3748"/>
+<circle cx="148" cy="248.5" r="3" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="159" cy="248.5" r="3" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.61s" repeatCount="indefinite"/></circle>
+</g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.333;0.450;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.333;0.450;1" dur="3.0s" fill="freeze"/><text x="236" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700" xml:space="preserve"><tspan fill="#4cc3e6">parag</tspan><tspan fill="#e6edf3">@</tspan><tspan fill="#4cc3e6">datacentre</tspan></text><line x1="236" y1="109" x2="482" y2="109" stroke="#30363d" stroke-width="1.5"/></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.383;0.500;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.383;0.500;1" dur="3.0s" fill="freeze"/><text x="236" y="134" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">Role  </tspan><tspan fill="#e6edf3">  Datacentre &amp; cloud ops engineer</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.427;0.543;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.427;0.543;1" dur="3.0s" fill="freeze"/><text x="236" y="158" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">Racks </tspan><tspan fill="#e6edf3">  iPhones · Android · Mac minis · GPU servers</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.470;0.587;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.470;0.587;1" dur="3.0s" fill="freeze"/><text x="236" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">Cloud </tspan><tspan fill="#e6edf3">  AWS Solutions Architect · Kubernetes · GitOps</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.513;0.630;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.513;0.630;1" dur="3.0s" fill="freeze"/><text x="236" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">AI    </tspan><tspan fill="#e6edf3">  Claude Code every day · 11 skills built</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.557;0.673;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.557;0.673;1" dur="3.0s" fill="freeze"/><text x="236" y="230" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">Now   </tspan><tspan fill="#e6edf3">  self-checking runbooks · website v2</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.600;0.717;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;0 0;0 0" keyTimes="0;0.600;0.717;1" dur="3.0s" fill="freeze"/><text x="236" y="254" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" xml:space="preserve"><tspan fill="#4cc3e6" font-weight="700">Off   </tspan><tspan fill="#e6edf3">  supper clubs · movie nights · cooking</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.700;0.833;1" dur="3.0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.700;0.833;1" dur="3.0s" fill="freeze"/>
+<rect x="236" y="272" width="22" height="12" rx="3" fill="#f85149"/>
+<rect x="262" y="272" width="22" height="12" rx="3" fill="#3fb950"/>
+<rect x="288" y="272" width="22" height="12" rx="3" fill="#e3b341"/>
+<rect x="314" y="272" width="22" height="12" rx="3" fill="#58a6ff"/>
+<rect x="340" y="272" width="22" height="12" rx="3" fill="#bc8cff"/>
+<rect x="366" y="272" width="22" height="12" rx="3" fill="#39c5cf"/>
+<rect x="392" y="272" width="22" height="12" rx="3" fill="#e6edf3"/>
+<rect x="418" y="272" width="22" height="12" rx="3" fill="#8b949e"/>
+</g>
+<rect x="452" y="272" width="9" height="14" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="2.4s" repeatCount="indefinite"/></rect>
+</svg>
