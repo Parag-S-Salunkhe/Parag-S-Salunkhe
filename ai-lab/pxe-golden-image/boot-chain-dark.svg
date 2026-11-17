@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="380" viewBox="0 0 840 380" role="img" aria-label="Animation of a PXE network boot: DHCP, ProxyDHCP, signed shim and GRUB over TFTP, the menu, kernel and initrd, the Ubuntu ISO and answers file over HTTP, an unattended install, the golden bundle and first boot.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#111a24"/></linearGradient><clipPath id="card"><rect x="0.5" y="0.5" width="839" height="379" rx="16"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="839" height="379" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<g clip-path="url(#card)"><rect x="0" y="0" width="840" height="4" fill="#d4a72c"/></g>
+<text x="36" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#d4a72c">DATACENTRE · NETWORK BOOT</text>
+<text x="36" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e6edf3">From power button to ready host</text>
+<text x="36" y="96" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">A bare machine boots from the network and installs itself. No USB stick, no monitor.</text>
+<rect x="36" y="122" width="236" height="124" rx="8" fill="#0b0f14" stroke="#30363d"/>
+<rect x="134" y="246" width="40" height="10" fill="#30363d"/>
+<rect x="56" y="262" width="196" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<circle cx="72" cy="277" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="90" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<rect x="98" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<rect x="106" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<rect x="114" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<rect x="122" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<rect x="130" y="270" width="3" height="14" rx="1" fill="#30363d"/>
+<text x="154" y="318" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6edf3">New machine</text>
+<text x="154" y="336" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">empty disk, network boot on</text>
+<text x="696.0" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6edf3">Boot server</text>
+<rect x="588" y="152" width="216" height="30" rx="5" fill="#161b22" stroke="#30363d"/>
+<rect x="658" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="680" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="702" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="724" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="746" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="768" y="161" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<circle cx="604" cy="167" r="3.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.70s" repeatCount="indefinite"/></circle>
+<circle cx="618" cy="167" r="3.5" fill="#e3b341"><animate attributeName="opacity" values="1;0.2;1" dur="1.00s" repeatCount="indefinite"/></circle>
+<rect x="588" y="188" width="216" height="30" rx="5" fill="#161b22" stroke="#30363d"/>
+<rect x="658" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="680" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="702" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="724" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="746" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="768" y="197" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<circle cx="604" cy="203" r="3.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.15s" repeatCount="indefinite"/></circle>
+<circle cx="618" cy="203" r="3.5" fill="#e3b341"><animate attributeName="opacity" values="1;0.2;1" dur="1.45s" repeatCount="indefinite"/></circle>
+<rect x="588" y="224" width="216" height="30" rx="5" fill="#161b22" stroke="#30363d"/>
+<rect x="658" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="680" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="702" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="724" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="746" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<rect x="768" y="233" width="16" height="12" rx="2" fill="none" stroke="#30363d"/>
+<circle cx="604" cy="239" r="3.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.60s" repeatCount="indefinite"/></circle>
+<circle cx="618" cy="239" r="3.5" fill="#e3b341"><animate attributeName="opacity" values="1;0.2;1" dur="1.90s" repeatCount="indefinite"/></circle>
+<text x="696.0" y="276" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">ProxyDHCP · TFTP · HTTP</text>
+<path d="M252 277 H272 V300 H564 V239 H588" fill="none" stroke="#484f58" stroke-width="2.5" stroke-linejoin="round"/>
+<g opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.1091;0.1111;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">1 · Ask the network</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Power on. The firmware has no OS,</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">so it broadcasts: who am I, and</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">where do I boot from?</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">&gt;&gt; Start PXE over IPv4.</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve"></text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">   Waiting for DHCP ...</text>
+<g><animateTransform attributeName="transform" type="translate" values="328 300;508 300;508 300" keyTimes="0.0000;0.0778;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-50" y="-11" width="99" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">DHCP discover</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1091;0.1111;0.2202;0.2222;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">2 · ProxyDHCP answers</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">The site's DHCP gives the address.</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">The boot server adds only the</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">boot file. Nothing else changes.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">&gt;&gt; Start PXE over IPv4.</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">   Station IP address is set</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">   Boot file: shimx64.efi</text>
+<g><animateTransform attributeName="transform" type="translate" values="502 300;502 300;334 300;334 300" keyTimes="0.0000;0.1111;0.1889;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-56" y="-11" width="112" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">boot file: shim</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2202;0.2222;0.3313;0.3333;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">3 · Signed bootloaders</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">shim (signed by Microsoft) loads</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">GRUB (signed by Canonical), so</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Secure Boot stays on.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Downloading NBP file ...</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">   shimx64.efi ........ ok</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">   grubx64.efi ........ ok</text>
+<text x="50" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Secure Boot: enabled</text>
+<g><animateTransform attributeName="transform" type="translate" values="492 300;492 300;344 300;344 300" keyTimes="0.0000;0.2222;0.3000;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-66" y="-11" width="131" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">shim + GRUB · TFTP</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3313;0.3333;0.4424;0.4444;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">4 · The menu</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">The default is the local disk, so</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">a reboot never reinstalls by</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">accident. Install is picked on purpose.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">GNU GRUB 2.12</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">  Boot from local disk</text>
+<rect x="44" y="170" width="220" height="17" rx="3" fill="#e3b341" fill-opacity="0.18"/>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#e3b341" xml:space="preserve">&gt; Golden Ubuntu 22.04</text>
+<text x="50" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">  Manual install</text>
+<g><animateTransform attributeName="transform" type="translate" values="502 300;502 300;334 300;334 300" keyTimes="0.0000;0.3333;0.4111;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-56" y="-11" width="112" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">grub.cfg · TFTP</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4424;0.4444;0.5536;0.5556;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">5 · Kernel over TFTP</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">TFTP is small and slow: fine for</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">the bootloaders, kernel and initrd,</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">nothing bigger.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Loading vmlinuz ...</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Loading initrd ...</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">[    0.000000] Linux version</text>
+<g><animateTransform attributeName="transform" type="translate" values="480 300;480 300;356 300;356 300" keyTimes="0.0000;0.4444;0.5222;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-78" y="-11" width="157" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">kernel + initrd · TFTP</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5536;0.5556;0.6647;0.6667;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">6 · ISO over HTTP</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">The big files come over HTTP: the</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Ubuntu ISO and an answers file for</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">every question the installer asks.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Fetching the Ubuntu ISO ...</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">autoinstall: answers found</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">  disk, user, SSH, packages</text>
+<g><animateTransform attributeName="transform" type="translate" values="486 300;486 300;350 300;350 300" keyTimes="0.0000;0.5556;0.6333;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-72" y="-11" width="144" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">ISO + answers · HTTP</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6647;0.6667;0.7758;0.7778;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">7 · Unattended install</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Disk, user, SSH and packages all</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">come from the answers file.</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Nobody presses a key.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">subiquity: autoinstall</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">  partitioning ........ ok</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">  installing system</text>
+<text x="50" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve"></text>
+<rect x="50" y="191" width="208" height="10" rx="3" fill="none" stroke="#6e7681"/>
+<rect x="50" y="191" width="0" height="10" rx="3" fill="#e3b341"><animate attributeName="width" values="0;0;208;208" keyTimes="0.0000;0.6667;0.7758;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7758;0.7778;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">8 · Golden bundle</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">Docker, base tooling and service</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">files go in before the first</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">reboot.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">late-commands:</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">  docker .............. ok</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">  setup script ........ ok</text>
+<text x="50" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">  golden bundle ....... ok</text>
+<g><animateTransform attributeName="transform" type="translate" values="486 300;486 300;350 300;350 300" keyTimes="0.0000;0.7778;0.8556;1.0000" dur="27.0s" repeatCount="indefinite"/><rect x="-72" y="-11" width="144" height="22" rx="11" fill="#161b22" stroke="#e3b341"/><text x="0" y="4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="600" fill="#e6edf3">golden bundle · HTTP</text></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/>
+<text x="430" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#d4a72c">9 · First boot</text>
+<text x="430" y="170" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">A one-shot service finishes setup.</text>
+<text x="430" y="189" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">One script sets the static IP and</text>
+<text x="430" y="208" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#e6edf3">name. Then the config agent takes over.</text>
+<text x="50" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">Ubuntu 22.04 LTS</text>
+<text x="50" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">first-boot service ... ok</text>
+<text x="50" y="182" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#3fb950" xml:space="preserve">static IP + name ..... ok</text>
+<text x="50" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#c9d1d9" xml:space="preserve">login:</text>
+<rect x="96" y="190" width="7" height="12" fill="#c9d1d9"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="405" y="225" width="51" height="22" rx="11" fill="#161b22" stroke="#3fb950"/><text x="430" y="240" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#3fb950">ready</text>
+</g>
+<rect x="36" y="350" width="43" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="36" y="350" width="43" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.1091;0.1111;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="58" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">DHCP</text>
+<text x="58" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">DHCP<animate attributeName="opacity" values="1;1;0;0" keyTimes="0.0000;0.1091;0.1111;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="108" y="350" width="75" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="108" y="350" width="75" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1091;0.1111;0.2202;0.2222;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="145" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">ProxyDHCP</text>
+<text x="145" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">ProxyDHCP<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1091;0.1111;0.2202;0.2222;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="211" y="350" width="87" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="211" y="350" width="87" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2202;0.2222;0.3313;0.3333;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="255" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">shim + GRUB</text>
+<text x="255" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">shim + GRUB<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2202;0.2222;0.3313;0.3333;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="327" y="350" width="43" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="327" y="350" width="43" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3313;0.3333;0.4424;0.4444;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="348" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">Menu</text>
+<text x="348" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">Menu<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3313;0.3333;0.4424;0.4444;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="398" y="350" width="56" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="398" y="350" width="56" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4424;0.4444;0.5536;0.5556;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="426" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">Kernel</text>
+<text x="426" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">Kernel<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4424;0.4444;0.5536;0.5556;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="483" y="350" width="37" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="483" y="350" width="37" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5536;0.5556;0.6647;0.6667;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="501" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">ISO</text>
+<text x="501" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">ISO<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.5536;0.5556;0.6647;0.6667;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="548" y="350" width="62" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="548" y="350" width="62" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6647;0.6667;0.7758;0.7778;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="579" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">Install</text>
+<text x="579" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">Install<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.6647;0.6667;0.7758;0.7778;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="639" y="350" width="56" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="639" y="350" width="56" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7758;0.7778;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="667" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">Bundle</text>
+<text x="667" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">Bundle<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.7758;0.7778;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+<rect x="723" y="350" width="81" height="20" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="723" y="350" width="81" height="20" rx="10" fill="#d4a72c" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/></rect>
+<text x="764" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">First boot</text>
+<text x="764" y="364" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#0d1117" opacity="0">First boot<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.8869;0.8889;1.0000" dur="27.0s" repeatCount="indefinite"/></text>
+</svg>
