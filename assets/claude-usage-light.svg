@@ -1,27 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" role="img" aria-label="Claude Code usage: 144 sessions, 22409 tool calls, 103 active days">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" role="img" aria-label="Claude Code usage: 147 sessions, 22510 tool calls, 104 active days">
 <rect x="0.5" y="0.5" width="839" height="429" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <g transform="translate(32,38)"><path d="M0 -11 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#d97757"><animateTransform attributeName="transform" type="rotate" values="0;90" dur="3.2s" fill="freeze"/></path></g>
 <text x="50" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#1f2328">Claude Code usage</text>
-<text x="816" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#656d76">12 May 2026 → 19 Nov 2026</text>
+<text x="816" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#656d76">12 May 2026 → 20 Nov 2026</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.047;0.187;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.047;0.187;1" dur="3.2s" fill="freeze"/>
 <rect x="24.0" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="38.0" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">144</text>
+<text x="38.0" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">147</text>
 <text x="38.0" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Sessions</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.084;0.225;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.084;0.225;1" dur="3.2s" fill="freeze"/>
 <rect x="184.8" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="198.8" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">22,409</text>
+<text x="198.8" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">22,510</text>
 <text x="198.8" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Tool calls</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.122;0.263;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.122;0.263;1" dur="3.2s" fill="freeze"/>
 <rect x="345.6" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="359.6" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">103</text>
+<text x="359.6" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">104</text>
 <text x="359.6" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Active days</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.159;0.300;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.159;0.300;1" dur="3.2s" fill="freeze"/>
 <rect x="506.4" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="520.4" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">11</text>
-<text x="520.4" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Day streak · best 11</text></g>
+<text x="520.4" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">12</text>
+<text x="520.4" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Day streak · best 12</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.197;0.338;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.197;0.338;1" dur="3.2s" fill="freeze"/>
 <rect x="667.2" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="681.2" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">12</text>
+<text x="681.2" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">13</text>
 <text x="681.2" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Skills built</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.250;0.391;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.250;0.391;1" dur="3.2s" fill="freeze"/>
 <rect x="24.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
@@ -30,7 +30,7 @@
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.281;0.422;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.281;0.422;1" dur="3.2s" fill="freeze"/>
 <rect x="225.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="237.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Per active day</text>
-<text x="237.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">218 tool calls</text></g>
+<text x="237.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">216 tool calls</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.312;0.453;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.312;0.453;1" dur="3.2s" fill="freeze"/>
 <rect x="426.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="438.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Busiest weekday</text>
@@ -38,7 +38,7 @@
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.344;0.484;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.344;0.484;1" dur="3.2s" fill="freeze"/>
 <rect x="627.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="639.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Generated</text>
-<text x="639.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">54.9M tokens</text></g>
+<text x="639.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">55.0M tokens</text></g>
 <text x="24" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Activity · last 26 weeks</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.344;0.438;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.344;0.438;1" dur="3.2s" fill="freeze"/>
 <rect x="24" y="236" width="12" height="12" rx="2.5" fill="#b6e3f0"><title>Mon 25 May: 10 tool calls</title></rect>
@@ -276,6 +276,7 @@
 <rect x="399" y="251" width="12" height="12" rx="2.5" fill="#145f78"><title>Tue 17 Nov: 553 tool calls</title></rect>
 <rect x="399" y="266" width="12" height="12" rx="2.5" fill="#2c9ab7"><title>Wed 18 Nov: 238 tool calls</title></rect>
 <rect x="399" y="281" width="12" height="12" rx="2.5" fill="#2c9ab7"><title>Thu 19 Nov: 188 tool calls</title></rect>
+<rect x="399" y="296" width="12" height="12" rx="2.5" fill="#2c9ab7"><title>Fri 20 Nov: 101 tool calls</title></rect>
 </g>
 <text x="280" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">less</text>
 <rect x="306" y="213" width="10" height="10" rx="2" fill="#ebedf0"/>
@@ -287,9 +288,9 @@
 <text x="470" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Model mix · share of generated tokens</text>
 <rect x="470" y="236" width="346" height="12" rx="6" fill="#eaeef2"/>
 <clipPath id="bar"><rect x="470" y="236" width="346" height="12" rx="6"><animate attributeName="width" values="0;0;346;346" keyTimes="0;0.312;0.594;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect></clipPath><g clip-path="url(#bar)">
-<rect x="470.0" y="236" width="257.3" height="12" fill="#d97757"/>
-<rect x="727.3" y="236" width="85.2" height="12" fill="#2c9ab7"/>
-<rect x="812.4" y="236" width="1.9" height="12" fill="#8b5cf6"/>
+<rect x="470.0" y="236" width="257.4" height="12" fill="#d97757"/>
+<rect x="727.4" y="236" width="85.0" height="12" fill="#2c9ab7"/>
+<rect x="812.4" y="236" width="2.0" height="12" fill="#8b5cf6"/>
 <rect x="814.4" y="236" width="1.6" height="12" fill="#8b949e"/>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><circle cx="475" cy="265" r="5" fill="#d97757"/>
@@ -298,10 +299,10 @@
 <text x="606" y="269" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Sonnet <tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#656d76">25%</tspan></text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><circle cx="715" cy="265" r="5" fill="#8b5cf6"/>
 <text x="726" y="269" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Haiku <tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#656d76">1%</tspan></text></g>
-<text x="470" y="308" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">When I start sessions · 144 sessions over 103 days</text>
-<rect x="471.5" y="337.1" width="11.4" height="46.9" rx="2" fill="#2c9ab7"><title>12am–1am: 11 sessions</title><animate attributeName="height" values="0;0;46.9;46.9" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;337.1;337.1" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
+<text x="470" y="308" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">When I start sessions · 147 sessions over 104 days</text>
+<rect x="471.5" y="332.8" width="11.4" height="51.2" rx="2" fill="#2c9ab7"><title>12am–1am: 12 sessions</title><animate attributeName="height" values="0;0;51.2;51.2" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;332.8;332.8" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="485.9" y="371.2" width="11.4" height="12.8" rx="2" fill="#2c9ab7"><title>1am–2am: 3 sessions</title><animate attributeName="height" values="0;0;12.8;12.8" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;371.2;371.2" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
-<rect x="500.3" y="371.2" width="11.4" height="12.8" rx="2" fill="#2c9ab7"><title>2am–3am: 3 sessions</title><animate attributeName="height" values="0;0;12.8;12.8" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;371.2;371.2" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
+<rect x="500.3" y="366.9" width="11.4" height="17.1" rx="2" fill="#2c9ab7"><title>2am–3am: 4 sessions</title><animate attributeName="height" values="0;0;17.1;17.1" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;366.9;366.9" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="514.8" y="375.5" width="11.4" height="8.5" rx="2" fill="#2c9ab7"><title>3am–4am: 2 sessions</title><animate attributeName="height" values="0;0;8.5;8.5" keyTimes="0;0.528;0.716;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;375.5;375.5" keyTimes="0;0.528;0.716;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="529.2" y="379.7" width="11.4" height="4.3" rx="2" fill="#2c9ab7"><title>4am–5am: 1 sessions</title><animate attributeName="height" values="0;0;4.3;4.3" keyTimes="0;0.537;0.725;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;379.7;379.7" keyTimes="0;0.537;0.725;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="543.6" y="379.7" width="11.4" height="4.3" rx="2" fill="#2c9ab7"><title>5am–6am: 1 sessions</title><animate attributeName="height" values="0;0;4.3;4.3" keyTimes="0;0.547;0.734;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;379.7;379.7" keyTimes="0;0.547;0.734;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
@@ -313,7 +314,7 @@
 <rect x="630.1" y="379.7" width="11.4" height="4.3" rx="2" fill="#2c9ab7"><title>11am–12pm: 1 sessions</title><animate attributeName="height" values="0;0;4.3;4.3" keyTimes="0;0.603;0.791;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;379.7;379.7" keyTimes="0;0.603;0.791;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="644.5" y="375.5" width="11.4" height="8.5" rx="2" fill="#2c9ab7"><title>12pm–1pm: 2 sessions</title><animate attributeName="height" values="0;0;8.5;8.5" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;375.5;375.5" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="658.9" y="349.9" width="11.4" height="34.1" rx="2" fill="#2c9ab7"><title>1pm–2pm: 8 sessions</title><animate attributeName="height" values="0;0;34.1;34.1" keyTimes="0;0.622;0.809;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;349.9;349.9" keyTimes="0;0.622;0.809;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
-<rect x="673.3" y="358.4" width="11.4" height="25.6" rx="2" fill="#2c9ab7"><title>2pm–3pm: 6 sessions</title><animate attributeName="height" values="0;0;25.6;25.6" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;358.4;358.4" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
+<rect x="673.3" y="354.1" width="11.4" height="29.9" rx="2" fill="#2c9ab7"><title>2pm–3pm: 7 sessions</title><animate attributeName="height" values="0;0;29.9;29.9" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;354.1;354.1" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="687.8" y="371.2" width="11.4" height="12.8" rx="2" fill="#2c9ab7"><title>3pm–4pm: 3 sessions</title><animate attributeName="height" values="0;0;12.8;12.8" keyTimes="0;0.641;0.828;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;371.2;371.2" keyTimes="0;0.641;0.828;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="702.2" y="324.3" width="11.4" height="59.7" rx="2" fill="#2c9ab7"><title>4pm–5pm: 14 sessions</title><animate attributeName="height" values="0;0;59.7;59.7" keyTimes="0;0.650;0.838;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;324.3;324.3" keyTimes="0;0.650;0.838;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="716.6" y="345.6" width="11.4" height="38.4" rx="2" fill="#2c9ab7"><title>5pm–6pm: 9 sessions</title><animate attributeName="height" values="0;0;38.4;38.4" keyTimes="0;0.659;0.847;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;345.6;345.6" keyTimes="0;0.659;0.847;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
