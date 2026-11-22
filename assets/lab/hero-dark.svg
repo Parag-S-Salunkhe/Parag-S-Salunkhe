@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="176" viewBox="0 0 820 176" role="img" aria-label="AI Lab: 16 write-ups, 11 at work and 5 side builds. Each has the problem, how it was built with Claude Code, and what I learned. Every idea credited.">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2c9ab7" stop-opacity="0.22"/><stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.10"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="819" height="175" rx="16" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="819" height="175" rx="16" fill="url(#a)"/>
+<text x="30" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="800" fill="#e6edf3">🧪 AI Lab</text>
+<text x="30" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#9da7b3">Real tools I use, built by pairing with Claude Code. Each write-up: the problem, how it was built, what I learned.</text>
+<rect x="30" y="104" width="94" height="26" rx="13" fill="#21262d" stroke="#30363d"/>
+<text x="77" y="121" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">16 write-ups</text>
+<rect x="132" y="104" width="81" height="26" rx="13" fill="#21262d" stroke="#30363d"/>
+<text x="173" y="121" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">11 at work</text>
+<rect x="221" y="104" width="98" height="26" rx="13" fill="#21262d" stroke="#30363d"/>
+<text x="270" y="121" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">5 side builds</text>
+<rect x="327" y="104" width="132" height="26" rx="13" fill="#21262d" stroke="#30363d"/>
+<text x="393" y="121" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#c9d1d9">every idea credited</text>
+<circle cx="34" cy="153" r="4" fill="#8b5cf6"/>
+<text x="44" y="157" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#9da7b3">SYSTEM</text>
+<circle cx="112.904" cy="153" r="4" fill="#2c9ab7"/>
+<text x="122.904" y="157" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#9da7b3">CLAUDE CODE SKILL</text>
+<circle cx="265.24" cy="153" r="4" fill="#d29922"/>
+<text x="275.24" y="157" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#9da7b3">PROOF OF CONCEPT</text>
+<circle cx="413.05600000000004" cy="153" r="4" fill="#3fb950"/>
+<text x="423.05600000000004" y="157" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#9da7b3">INFRASTRUCTURE</text>
+<circle cx="548.868" cy="153" r="4" fill="#e9a66b"/>
+<text x="558.868" y="157" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" letter-spacing="1.1" fill="#9da7b3">SIDE BUILD</text>
+</svg>
