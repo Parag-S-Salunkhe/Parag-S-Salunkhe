@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="84" viewBox="0 0 400 84" role="img" aria-label="eng-security: Threat model, source to sink, argue-against check. Ideas from: Sentry · Addy Osmani · Trail of Bits">
 <rect x="0.5" y="0.5" width="399" height="83" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <clipPath id="c"><rect x="0.5" y="0.5" width="399" height="83" rx="10"/></clipPath>
-<rect x="0" y="0" width="3" height="84" fill="#d97757" clip-path="url(#c)"/>
+<rect x="0" y="0" width="3" height="84" fill="#1a7f37" clip-path="url(#c)"/>
 <text x="18" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#1f2328">eng-security</text>
 <text x="18" y="50" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#57606a">Threat model, source to sink, argue-against check</text>
-<text x="18" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5"><tspan font-weight="700" fill="#d97757">Ideas from:</tspan><tspan fill="#57606a"> Sentry · Addy Osmani · Trail of Bits</tspan></text>
+<text x="18" y="70" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5"><tspan font-weight="700" fill="#1a7f37">Ideas from:</tspan><tspan fill="#57606a"> Sentry · Addy Osmani · Trail of Bits</tspan></text>
 </svg>
