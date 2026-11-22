@@ -1,32 +1,39 @@
 # 🧪 AI Lab
 
-Things I've built by pairing with [Claude Code](https://claude.com/claude-code). Each one is a real tool I use, not a demo.
+16 things I've built by pairing with [Claude Code](https://claude.com/claude-code). Each one is a real tool I use, not a demo. Every card opens the write-up (**the problem, how it was built and what I learned**) and names where the ideas came from.
 
-### At work
+### At work (11)
 
-| | Write-up | One line |
-|---|---|---|
-| 🛰️ | [AI ops co-pilot](ai-ops-copilot/) | 11 Claude Code skills that run day-to-day datacentre work |
-| 🧹 | [Self-checking runbooks](self-checking-runbooks/) | A knowledge base that lints itself for stale facts, dead links and leaked secrets |
-| 🔐 | [Zero-password agent access](zero-password-agent-access/) | The AI reaches servers and databases without ever seeing a password |
-| 🩺 | [Device troubleshooting agent](device-troubleshooting-agent/) | Fault message in → runbook fix → verified healthy |
-| 🔎 | [RCA skill](rca-skill/) | No root cause without evidence; confidence label on every cause |
-| 🚚 | [Onboarding autopilot](onboarding-autopilot/) | New Macs + iPhones and Linux hosts + Android phones, end to end |
-| ⚙️ | [CI workflow helper](ci-workflow-helper/) | Raise, rerun and check approval workflows, with the run link every time |
-| 🛡️ | [Security guard skill](security-guard/) | Secret store, weekly Mac check, breach check, untrusted text stays data |
-| 💾 | [Save-learnings skill](save-learnings/) | Every verified fix written to three places in the same turn |
-| 🤖 | [Faulty-device auto-fix (POC)](faulty-device-autofix/) | Fault message → verified fix, automatically |
-| 💿 | [PXE golden image](pxe-golden-image/) | Bare metal to a ready Ubuntu host over the network |
+<p align="center">
+<a href="./ai-ops-copilot/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/ai-ops-copilot-dark.svg" /><img src="../assets/cards/ai-ops-copilot-light.svg" width="49%" alt="AI ops co-pilot: 11 Claude Code skills run day-to-day datacentre work. I ask in plain words; the right playbook runs and checks the real result. Ideas from: obra/superpowers · Anthropic skill-creator." /></picture></a>
+<a href="./self-checking-runbooks/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/self-checking-runbooks-dark.svg" /><img src="../assets/cards/self-checking-runbooks-light.svg" width="49%" alt="Self-checking runbooks: Notes that lint themselves for stale facts, retired methods, dead links and leaked secrets. Every miss ends with a check. Ideas from: Karpathy's LLM Wiki · mem0." /></picture></a>
+<a href="./zero-password-agent-access/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/zero-password-agent-access-dark.svg" /><img src="../assets/cards/zero-password-agent-access-light.svg" width="49%" alt="Zero-password agent access: The AI reaches servers, databases and CI through keychain-backed wrappers. It never sees, stores or prints a password. Ideas from: Willison's lethal trifecta · Meta's Rule of Two." /></picture></a>
+<a href="./device-troubleshooting-agent/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/device-troubleshooting-agent-dark.svg" /><img src="../assets/cards/device-troubleshooting-agent-light.svg" width="49%" alt="Device troubleshooting agent: A phone's fault message in, the exact runbook fix out: read-only checks first, then proof it's healthy again. Built on: my own runbooks and rules." /></picture></a>
+<a href="./rca-skill/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/rca-skill-dark.svg" /><img src="../assets/cards/rca-skill-light.svg" width="49%" alt="RCA skill: No root cause without evidence. Real timestamps only, a healthy twin to compare with, and a confidence label on every cause. Ideas from: obra/superpowers systematic-debugging." /></picture></a>
+<a href="./onboarding-autopilot/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/onboarding-autopilot-dark.svg" /><img src="../assets/cards/onboarding-autopilot-light.svg" width="49%" alt="Onboarding autopilot: New Mac minis + iPhones and Linux hosts + Android phones, end to end, with every step validated before the next. Built on: my own runbooks and rules." /></picture></a>
+<a href="./ci-workflow-helper/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/ci-workflow-helper-dark.svg" /><img src="../assets/cards/ci-workflow-helper-light.svg" width="49%" alt="CI workflow helper: Raises, reruns and checks approval workflows. Clears risky default inputs and hands approvers the run link every time. Built on: my own rules · gh + GitHub Actions." /></picture></a>
+<a href="./security-guard/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/security-guard-dark.svg" /><img src="../assets/cards/security-guard-light.svg" width="49%" alt="Security guard skill: Secret store, weekly Mac security check, breached-password check, and text from chat or tickets treated as data. Ideas from: lethal trifecta · Rule of Two · OWASP LLM Top 10." /></picture></a>
+<a href="./save-learnings/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/save-learnings-dark.svg" /><img src="../assets/cards/save-learnings-light.svg" width="49%" alt="Save-learnings skill: Every verified fix is written to three places in the same turn, so nothing is ever learned twice. Ideas from: mem0 (add / update / delete / no-op)." /></picture></a>
+<a href="./faulty-device-autofix/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/faulty-device-autofix-dark.svg" /><img src="../assets/cards/faulty-device-autofix-light.svg" width="49%" alt="Faulty-device auto-fix: Match a fault message to a known fix and apply it. Only fixes verified in the runbook are allowed to run on their own. Built on: my own verified runbook fixes." /></picture></a>
+<a href="./pxe-golden-image/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/pxe-golden-image-dark.svg" /><img src="../assets/cards/pxe-golden-image-light.svg" width="49%" alt="PXE golden image: Bare-metal mini PC to a ready Ubuntu host over the network, plus the one tar flag that stopped a kernel panic. Built on: Ubuntu autoinstall · dnsmasq · signed GRUB." /></picture></a>
+</p>
 
-### Side builds
+### Side builds (5)
 
-| | Write-up | One line |
-|---|---|---|
-| 🍝 | [paragsalunkhe.me](personal-website/) | My supper-club zine; v2 is "one evening" in 3D scenes |
-| 🖥️ | [Mac desktop widgets](mac-desktop-widgets/) · [repo](https://github.com/Parag-S-Salunkhe/mac-desktop-widgets) | Clocks, live system stats and a daily wallpaper, drawn on the desktop |
-| ⌚ | [Galaxy Watch 4 tune-up](galaxy-watch-faces/) · [repo](https://github.com/Parag-S-Salunkhe/galaxy-watch4) | A 5-year-old watch tuned without root, two custom faces, AOD on the low-power chip |
-| 📱 | [Mom and Dad's phones](parents-phones/) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7527501992144035840/) | Scam apps, full-screen ads and a keyboard reading every key, fixed over adb |
-| ✍️ | [LinkedIn writing skill](linkedin-writing-skill/) | Drafts in my voice, then checks reach and "sounds like AI" tells |
-| 🧰 | [Claude Code skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) (repo) | 17 skills I use every day (ops, notes and engineering), ready to install, each crediting its sources |
+<p align="center">
+<a href="./personal-website/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/personal-website-dark.svg" /><img src="../assets/cards/personal-website-light.svg" width="49%" alt="paragsalunkhe.me: My supper-club zine. v2 (in progress) turns the site into one evening of 3D scenes, hardened and tested. Built on: Next.js · Three.js · Blender." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/mac-desktop-widgets"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/mac-desktop-widgets-dark.svg" /><img src="../assets/cards/mac-desktop-widgets-light.svg" width="49%" alt="Mac desktop widgets: Three time zones, CPU/GPU/memory rings, network, one-click &quot;free up memory&quot; and a daily 4K wallpaper. Built on: Übersicht." /></picture></a>
+<a href="https://github.com/Parag-S-Salunkhe/galaxy-watch4"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/galaxy-watch-faces-dark.svg" /><img src="../assets/cards/galaxy-watch-faces-light.svg" width="49%" alt="Galaxy Watch 4 tune-up: A 5-year-old watch tuned over wireless adb: no root, every change logged with its undo. Two custom faces and AOD on the low-power chip. Built on: Google's Watch Face Format." /></picture></a>
+<a href="./parents-phones/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/parents-phones-dark.svg" /><img src="../assets/cards/parents-phones-light.svg" width="49%" alt="Mom and Dad's phones: A fake health app owning Dad's home screen, a keyboard reading every key on Mom's. Checked over adb with Claude Code: ads 15 a day → 0. Built on: Amnesty's MVT · AndroidQF · Exodus Privacy." /></picture></a>
+<a href="./linkedin-writing-skill/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/linkedin-writing-skill-dark.svg" /><img src="../assets/cards/linkedin-writing-skill-light.svg" width="49%" alt="LinkedIn writing skill: Drafts posts in my voice from my real facts only, then checks reach rules and &quot;sounds like AI&quot; tells. It never posts. Ideas from: Jakeschincariol · shwetankg07 · noah-vl · mgritzbach." /></picture></a>
+</p>
+
+<p align="center"><sub>Cards marked <i>Repo</i> open the full project. Their write-ups: <a href="mac-desktop-widgets/README.md">Mac desktop widgets</a> · <a href="galaxy-watch-faces/README.md">Galaxy Watch 4 tune-up</a></sub></p>
+
+### Claude Code skills (17)
+
+<p align="center">
+<a href="https://github.com/Parag-S-Salunkhe/claude-code-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/cards/claude-code-skills-shelf-dark.svg" /><img src="../assets/cards/claude-code-skills-shelf-light.svg" width="100%" alt="Claude Code skills, 17 public. Ops & Notes: rca, save-learnings, notes-lint, park-it, secrets-guard, workflow-runner, linkedin-post. Ideas from: obra/superpowers · mem0 · Karpathy's LLM Wiki · Willison's lethal trifecta · Meta's Rule of Two · OWASP · 9 open LinkedIn and writing skills. Engineering: eng-plan, eng-build, eng-debug, eng-review, eng-security, eng-design, eng-webtest, eng-evals, eng-context, eng-skills. Ideas from: obra/superpowers · Matt Pocock · Addy Osmani · Sentry · Trail of Bits · Anthropic · Hamel Husain · lackeyjb/playwright-skill · muratcankoylan." /></picture></a>
+</p>
 
 [← back to profile](../README.md)
