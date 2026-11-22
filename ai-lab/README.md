@@ -1,6 +1,8 @@
-<p align="center">
-<a href="../README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/lab/hero-dark.svg" /><img src="../assets/lab/hero-light.svg" width="100%" alt="AI Lab: 15 write-ups, 10 at work and 5 side builds. Each has the problem, how it was built with Claude Code, and what I learned. Every idea credited." /></picture></a>
-</p>
+# AI Lab
+
+Real tools I use, built by pairing with Claude Code. Each write-up covers the problem, how it was built and what I learned, and credits where the ideas came from.
+
+<sub>15 write-ups · 10 at work · 5 side builds</sub>
 
 ### At work · 01–10
 
@@ -27,8 +29,4 @@
 <a href="./linkedin-writing-skill/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/lab/row-linkedin-writing-skill-dark.svg" /><img src="../assets/lab/row-linkedin-writing-skill-light.svg" width="100%" alt="15. LinkedIn writing skill: Drafts in my voice, then checks reach and &quot;sounds like AI&quot; tells. Ideas from: Jakeschincariol · shwetankg07 · noah-vl · mgritzbach." /></picture></a>
 </p>
 
----
-
-🧰 The skills behind these, ready to install: **[claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills)** (17 skills, each crediting its sources)
-
-[← back to profile](../README.md)
+<sub>The skills behind these, ready to install: [claude-code-skills](https://github.com/Parag-S-Salunkhe/claude-code-skills) (17 skills, each crediting its sources) · [← back to profile](../README.md)</sub>

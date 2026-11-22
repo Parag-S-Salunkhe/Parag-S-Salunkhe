@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="80" viewBox="0 0 820 80" role="img" aria-label="02. Self-checking runbooks: A knowledge base that lints itself for stale facts, dead links and leaked secrets. Ideas from: Karpathy's LLM Wiki · mem0">
-<rect x="0.5" y="0.5" width="819" height="79" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="22" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#9da7b3">02</text>
-<rect x="54" y="18" width="44" height="44" rx="10" fill="#0d1117" stroke="#30363d"/>
-<text x="76" y="48" text-anchor="middle" font-size="20">🧹</text>
-<text x="114" y="33" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" font-weight="600" fill="#e6edf3">Self-checking runbooks</text>
-<text x="114" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#9da7b3">A knowledge base that lints itself for stale facts, dead links and leaked secrets</text>
-<text x="114" y="69" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11"><tspan font-weight="700" fill="#2c9ab7">Ideas from:</tspan><tspan fill="#9da7b3"> Karpathy's LLM Wiki · mem0</tspan></text>
-<rect x="740" y="19" width="58" height="18" rx="9" fill="none" stroke="#30363d"/>
-<text x="769" y="31.5" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="0.9" fill="#9da7b3">SYSTEM</text>
-<text x="798" y="62" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#2c9ab7">Read →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-label="02. Self-checking runbooks: A knowledge base that lints itself for stale facts, dead links and leaked secrets. Ideas from: Karpathy's LLM Wiki · mem0">
+<text x="4" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9da7b3">02</text>
+<text x="38" y="26" font-size="17">🧹</text>
+<text x="70" y="23" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">Self-checking runbooks</text>
+<text x="70" y="41" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#9da7b3">A knowledge base that lints itself for stale facts, dead links and leaked secrets</text>
+<text x="70" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#9da7b3"><tspan font-weight="600" fill="#e6edf3">Ideas from:</tspan><tspan> Karpathy's LLM Wiki · mem0</tspan></text>
+<text x="792" y="23" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" font-weight="600" letter-spacing="1" fill="#9da7b3">SYSTEM</text>
+<text x="814" y="41" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9da7b3">→</text>
+<rect x="0" y="63" width="820" height="1" fill="#30363d"/>
 </svg>
