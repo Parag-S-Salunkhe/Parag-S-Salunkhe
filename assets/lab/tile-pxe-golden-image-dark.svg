@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="116" viewBox="0 0 400 116" role="img" aria-label="10. PXE golden image: Bare metal to a ready Ubuntu host over the network. Built on: Ubuntu autoinstall · dnsmasq · signed GRUB">
 <rect x="0.5" y="0.5" width="399" height="115" rx="10" fill="#161b22" stroke="#30363d"/>
 <clipPath id="c"><rect x="0.5" y="0.5" width="399" height="115" rx="10"/></clipPath>
-<rect x="0" y="0" width="3" height="116" fill="#8fae7e" clip-path="url(#c)"/>
+<rect x="0" y="0" width="3" height="116" fill="#b1bac4" clip-path="url(#c)"/>
 <text x="18" y="29" font-size="16">💿</text>
 <text x="44" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e6edf3">PXE golden image</text>
 <text x="384" y="27" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#9da7b3">10</text>
 <text x="44" y="45" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#9da7b3">INFRASTRUCTURE</text>
 <text x="18" y="68" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#9da7b3">Bare metal to a ready Ubuntu host over the network</text>
-<text x="18" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5"><tspan font-weight="700" fill="#8fae7e">Built on:</tspan><tspan fill="#9da7b3"> Ubuntu autoinstall · dnsmasq · signed GRUB</tspan></text>
+<text x="18" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5"><tspan font-weight="700" fill="#b1bac4">Built on:</tspan><tspan fill="#9da7b3"> Ubuntu autoinstall · dnsmasq · signed GRUB</tspan></text>
 </svg>
