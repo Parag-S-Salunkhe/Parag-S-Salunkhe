@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="198" viewBox="0 0 400 198" role="img" aria-label="Save-learnings skill: Every verified fix is written to three places in the same turn, so nothing is ever learned twice.">
-<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2c9ab7"/><stop offset="1" stop-color="#2c9ab7" stop-opacity="0"/></linearGradient></defs>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d97757"/><stop offset="1" stop-color="#d97757" stop-opacity="0"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="399" height="197" rx="14" fill="url(#g)" stroke="#d0d7de"/>
 <clipPath id="c"><rect x="0.5" y="0.5" width="399" height="197" rx="14"/></clipPath>
 <rect x="0" y="0" width="400" height="3" fill="url(#a)" clip-path="url(#c)"/>
-<rect x="18" y="20" width="42" height="42" rx="11" fill="#2c9ab7" fill-opacity="0.16" stroke="#2c9ab7" stroke-opacity="0.45"/>
+<rect x="18" y="20" width="42" height="42" rx="11" fill="#d97757" fill-opacity="0.16" stroke="#d97757" stroke-opacity="0.45"/>
 <text x="39" y="49" text-anchor="middle" font-size="21">💾</text>
 <text x="74" y="38" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16.5" font-weight="700" fill="#1f2328">Save-learnings skill</text>
-<text x="74" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.3" fill="#2c9ab7">CLAUDE CODE SKILL</text>
+<text x="74" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.3" fill="#57606a">CLAUDE CODE SKILL</text>
 <text x="18" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#57606a">Every verified fix is written to three places in the</text>
 <text x="18" y="105" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#57606a">same turn, so nothing is ever learned twice.</text>
-<text x="18" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"><tspan font-weight="700" fill="#2c9ab7">Ideas from:</tspan><tspan fill="#57606a"> mem0 (add / update / delete / no-op)</tspan></text>
+<text x="18" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5"><tspan font-weight="700" fill="#d97757">Ideas from:</tspan><tspan fill="#57606a"> mem0 (add / update / delete / no-op)</tspan></text>
 <rect x="18.0" y="164" width="50.1" height="20" rx="10" fill="#eaeef2"/>
 <text x="43.0" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#424a53">memory</text>
 <rect x="74.1" y="164" width="40.6" height="20" rx="10" fill="#eaeef2"/>
 <text x="94.4" y="178" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#424a53">docs</text>
-<text x="382" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#2c9ab7">Read →</text>
+<text x="382" y="178" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#d97757">Read →</text>
 </svg>
