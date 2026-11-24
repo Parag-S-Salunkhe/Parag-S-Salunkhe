@@ -1,24 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" role="img" aria-label="Claude Code usage: 639 sessions, 24599 tool calls, 106 active days">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="430" viewBox="0 0 840 430" role="img" aria-label="Claude Code usage: 641 sessions, 24894 tool calls, 107 active days">
 <rect x="0.5" y="0.5" width="839" height="429" rx="12" fill="#ffffff" stroke="#d0d7de"/>
 <g transform="translate(32,38)"><path d="M0 -11 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#d4a72c"><animateTransform attributeName="transform" type="rotate" values="0;90" dur="3.2s" fill="freeze"/></path></g>
 <text x="50" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#1f2328">Claude Code usage</text>
-<text x="816" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#656d76">12 May 2026 → 22 Nov 2026</text>
+<text x="816" y="44" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#656d76">12 May 2026 → 23 Nov 2026</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.047;0.187;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.047;0.187;1" dur="3.2s" fill="freeze"/>
 <rect x="24.0" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="38.0" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">639</text>
+<text x="38.0" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">641</text>
 <text x="38.0" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Sessions</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.084;0.225;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.084;0.225;1" dur="3.2s" fill="freeze"/>
 <rect x="184.8" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="198.8" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">24,599</text>
+<text x="198.8" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">24,894</text>
 <text x="198.8" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Tool calls</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.122;0.263;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.122;0.263;1" dur="3.2s" fill="freeze"/>
 <rect x="345.6" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="359.6" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">106</text>
+<text x="359.6" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">107</text>
 <text x="359.6" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Active days</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.159;0.300;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.159;0.300;1" dur="3.2s" fill="freeze"/>
 <rect x="506.4" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="520.4" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">14</text>
-<text x="520.4" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Day streak · best 14</text></g>
+<text x="520.4" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">15</text>
+<text x="520.4" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Day streak · best 15</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.197;0.338;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.197;0.338;1" dur="3.2s" fill="freeze"/>
 <rect x="667.2" y="62" width="148.8" height="72" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <text x="681.2" y="103" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#1f2328">23</text>
@@ -30,7 +30,7 @@
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.281;0.422;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.281;0.422;1" dur="3.2s" fill="freeze"/>
 <rect x="225.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="237.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Per active day</text>
-<text x="237.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">232 tool calls</text></g>
+<text x="237.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">233 tool calls</text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.312;0.453;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.312;0.453;1" dur="3.2s" fill="freeze"/>
 <rect x="426.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="438.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Busiest weekday</text>
@@ -38,247 +38,241 @@
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.344;0.484;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.344;0.484;1" dur="3.2s" fill="freeze"/>
 <rect x="627.0" y="146" width="189.0" height="44" rx="8" fill="none" stroke="#d0d7de" stroke-dasharray="3 3"/>
 <text x="639.0" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#656d76">Generated</text>
-<text x="639.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">56.2M tokens</text></g>
+<text x="639.0" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#1f2328">56.5M tokens</text></g>
 <text x="24" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Activity · last 26 weeks</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.344;0.438;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.344;0.438;1" dur="3.2s" fill="freeze"/>
-<rect x="24" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 25 May: 10 tool calls</title></rect>
-<rect x="24" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 26 May: 45 tool calls</title></rect>
-<rect x="24" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 27 May: 1 tool calls</title></rect>
-<rect x="24" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 28 May: 0 tool calls</title></rect>
-<rect x="24" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 29 May: 0 tool calls</title></rect>
-<rect x="24" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 30 May: 0 tool calls</title></rect>
-<rect x="24" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 31 May: 0 tool calls</title></rect>
+<rect x="24" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 01 Jun: 0 tool calls</title></rect>
+<rect x="24" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 02 Jun: 0 tool calls</title></rect>
+<rect x="24" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 03 Jun: 0 tool calls</title></rect>
+<rect x="24" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 04 Jun: 49 tool calls</title></rect>
+<rect x="24" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 05 Jun: 18 tool calls</title></rect>
+<rect x="24" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 06 Jun: 0 tool calls</title></rect>
+<rect x="24" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 07 Jun: 0 tool calls</title></rect>
 </g>
+<text x="24" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Jun</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.358;0.452;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.358;0.452;1" dur="3.2s" fill="freeze"/>
-<rect x="39" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 01 Jun: 0 tool calls</title></rect>
-<rect x="39" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 02 Jun: 0 tool calls</title></rect>
-<rect x="39" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 03 Jun: 0 tool calls</title></rect>
-<rect x="39" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 04 Jun: 49 tool calls</title></rect>
-<rect x="39" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 05 Jun: 18 tool calls</title></rect>
-<rect x="39" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 06 Jun: 0 tool calls</title></rect>
-<rect x="39" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 07 Jun: 0 tool calls</title></rect>
+<rect x="39" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 08 Jun: 0 tool calls</title></rect>
+<rect x="39" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 09 Jun: 0 tool calls</title></rect>
+<rect x="39" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 10 Jun: 0 tool calls</title></rect>
+<rect x="39" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 11 Jun: 0 tool calls</title></rect>
+<rect x="39" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 12 Jun: 0 tool calls</title></rect>
+<rect x="39" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 13 Jun: 0 tool calls</title></rect>
+<rect x="39" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 14 Jun: 0 tool calls</title></rect>
 </g>
-<text x="39" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Jun</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.372;0.466;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.372;0.466;1" dur="3.2s" fill="freeze"/>
-<rect x="54" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 08 Jun: 0 tool calls</title></rect>
-<rect x="54" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 09 Jun: 0 tool calls</title></rect>
-<rect x="54" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 10 Jun: 0 tool calls</title></rect>
-<rect x="54" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 11 Jun: 0 tool calls</title></rect>
-<rect x="54" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 12 Jun: 0 tool calls</title></rect>
-<rect x="54" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 13 Jun: 0 tool calls</title></rect>
-<rect x="54" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 14 Jun: 0 tool calls</title></rect>
+<rect x="54" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 15 Jun: 0 tool calls</title></rect>
+<rect x="54" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 16 Jun: 0 tool calls</title></rect>
+<rect x="54" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 17 Jun: 0 tool calls</title></rect>
+<rect x="54" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 18 Jun: 0 tool calls</title></rect>
+<rect x="54" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 19 Jun: 0 tool calls</title></rect>
+<rect x="54" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 20 Jun: 0 tool calls</title></rect>
+<rect x="54" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 21 Jun: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.386;0.480;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.386;0.480;1" dur="3.2s" fill="freeze"/>
-<rect x="69" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 15 Jun: 0 tool calls</title></rect>
-<rect x="69" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 16 Jun: 0 tool calls</title></rect>
-<rect x="69" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 17 Jun: 0 tool calls</title></rect>
-<rect x="69" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 18 Jun: 0 tool calls</title></rect>
-<rect x="69" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 19 Jun: 0 tool calls</title></rect>
-<rect x="69" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 20 Jun: 0 tool calls</title></rect>
-<rect x="69" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 21 Jun: 0 tool calls</title></rect>
+<rect x="69" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 22 Jun: 2 tool calls</title></rect>
+<rect x="69" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 23 Jun: 74 tool calls</title></rect>
+<rect x="69" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 24 Jun: 1 tool calls</title></rect>
+<rect x="69" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 25 Jun: 13 tool calls</title></rect>
+<rect x="69" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 26 Jun: 15 tool calls</title></rect>
+<rect x="69" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 27 Jun: 0 tool calls</title></rect>
+<rect x="69" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 28 Jun: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.400;0.494;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.400;0.494;1" dur="3.2s" fill="freeze"/>
-<rect x="84" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 22 Jun: 2 tool calls</title></rect>
-<rect x="84" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 23 Jun: 74 tool calls</title></rect>
-<rect x="84" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 24 Jun: 1 tool calls</title></rect>
-<rect x="84" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 25 Jun: 13 tool calls</title></rect>
-<rect x="84" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 26 Jun: 15 tool calls</title></rect>
-<rect x="84" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 27 Jun: 0 tool calls</title></rect>
-<rect x="84" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 28 Jun: 0 tool calls</title></rect>
+<rect x="84" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 29 Jun: 0 tool calls</title></rect>
+<rect x="84" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 30 Jun: 0 tool calls</title></rect>
+<rect x="84" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 01 Jul: 48 tool calls</title></rect>
+<rect x="84" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 02 Jul: 29 tool calls</title></rect>
+<rect x="84" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 03 Jul: 17 tool calls</title></rect>
+<rect x="84" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 04 Jul: 0 tool calls</title></rect>
+<rect x="84" y="326" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Sun 05 Jul: 11 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.414;0.508;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.414;0.508;1" dur="3.2s" fill="freeze"/>
-<rect x="99" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 29 Jun: 0 tool calls</title></rect>
-<rect x="99" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 30 Jun: 0 tool calls</title></rect>
-<rect x="99" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 01 Jul: 48 tool calls</title></rect>
-<rect x="99" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 02 Jul: 29 tool calls</title></rect>
-<rect x="99" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 03 Jul: 17 tool calls</title></rect>
-<rect x="99" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 04 Jul: 0 tool calls</title></rect>
-<rect x="99" y="326" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Sun 05 Jul: 11 tool calls</title></rect>
+<rect x="99" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 06 Jul: 0 tool calls</title></rect>
+<rect x="99" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 07 Jul: 24 tool calls</title></rect>
+<rect x="99" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 08 Jul: 20 tool calls</title></rect>
+<rect x="99" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 09 Jul: 115 tool calls</title></rect>
+<rect x="99" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 10 Jul: 16 tool calls</title></rect>
+<rect x="99" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 11 Jul: 0 tool calls</title></rect>
+<rect x="99" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 12 Jul: 0 tool calls</title></rect>
 </g>
+<text x="99" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Jul</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.428;0.522;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.428;0.522;1" dur="3.2s" fill="freeze"/>
-<rect x="114" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 06 Jul: 0 tool calls</title></rect>
-<rect x="114" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 07 Jul: 24 tool calls</title></rect>
-<rect x="114" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 08 Jul: 20 tool calls</title></rect>
-<rect x="114" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 09 Jul: 115 tool calls</title></rect>
-<rect x="114" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 10 Jul: 16 tool calls</title></rect>
-<rect x="114" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 11 Jul: 0 tool calls</title></rect>
-<rect x="114" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 12 Jul: 0 tool calls</title></rect>
+<rect x="114" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 13 Jul: 9 tool calls</title></rect>
+<rect x="114" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 14 Jul: 34 tool calls</title></rect>
+<rect x="114" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 15 Jul: 0 tool calls</title></rect>
+<rect x="114" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 16 Jul: 0 tool calls</title></rect>
+<rect x="114" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 17 Jul: 0 tool calls</title></rect>
+<rect x="114" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 18 Jul: 0 tool calls</title></rect>
+<rect x="114" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 19 Jul: 0 tool calls</title></rect>
 </g>
-<text x="114" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Jul</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.442;0.536;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.442;0.536;1" dur="3.2s" fill="freeze"/>
-<rect x="129" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 13 Jul: 9 tool calls</title></rect>
-<rect x="129" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 14 Jul: 34 tool calls</title></rect>
-<rect x="129" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 15 Jul: 0 tool calls</title></rect>
-<rect x="129" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 16 Jul: 0 tool calls</title></rect>
-<rect x="129" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 17 Jul: 0 tool calls</title></rect>
-<rect x="129" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 18 Jul: 0 tool calls</title></rect>
-<rect x="129" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 19 Jul: 0 tool calls</title></rect>
+<rect x="129" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 20 Jul: 1 tool calls</title></rect>
+<rect x="129" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 21 Jul: 78 tool calls</title></rect>
+<rect x="129" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 22 Jul: 125 tool calls</title></rect>
+<rect x="129" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 23 Jul: 88 tool calls</title></rect>
+<rect x="129" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 24 Jul: 65 tool calls</title></rect>
+<rect x="129" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 25 Jul: 0 tool calls</title></rect>
+<rect x="129" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 26 Jul: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.456;0.550;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.456;0.550;1" dur="3.2s" fill="freeze"/>
-<rect x="144" y="236" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Mon 20 Jul: 1 tool calls</title></rect>
-<rect x="144" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 21 Jul: 78 tool calls</title></rect>
-<rect x="144" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 22 Jul: 125 tool calls</title></rect>
-<rect x="144" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 23 Jul: 88 tool calls</title></rect>
-<rect x="144" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 24 Jul: 65 tool calls</title></rect>
-<rect x="144" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 25 Jul: 0 tool calls</title></rect>
-<rect x="144" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 26 Jul: 0 tool calls</title></rect>
+<rect x="144" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 27 Jul: 0 tool calls</title></rect>
+<rect x="144" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 28 Jul: 99 tool calls</title></rect>
+<rect x="144" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 29 Jul: 69 tool calls</title></rect>
+<rect x="144" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 30 Jul: 88 tool calls</title></rect>
+<rect x="144" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 31 Jul: 49 tool calls</title></rect>
+<rect x="144" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 01 Aug: 0 tool calls</title></rect>
+<rect x="144" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 02 Aug: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.470;0.564;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.470;0.564;1" dur="3.2s" fill="freeze"/>
-<rect x="159" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 27 Jul: 0 tool calls</title></rect>
-<rect x="159" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 28 Jul: 99 tool calls</title></rect>
-<rect x="159" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 29 Jul: 69 tool calls</title></rect>
-<rect x="159" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 30 Jul: 88 tool calls</title></rect>
-<rect x="159" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 31 Jul: 49 tool calls</title></rect>
-<rect x="159" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 01 Aug: 0 tool calls</title></rect>
-<rect x="159" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 02 Aug: 0 tool calls</title></rect>
+<rect x="159" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 03 Aug: 0 tool calls</title></rect>
+<rect x="159" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 04 Aug: 247 tool calls</title></rect>
+<rect x="159" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 05 Aug: 492 tool calls</title></rect>
+<rect x="159" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 06 Aug: 3 tool calls</title></rect>
+<rect x="159" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 07 Aug: 251 tool calls</title></rect>
+<rect x="159" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 08 Aug: 0 tool calls</title></rect>
+<rect x="159" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 09 Aug: 0 tool calls</title></rect>
 </g>
+<text x="159" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Aug</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.484;0.578;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.484;0.578;1" dur="3.2s" fill="freeze"/>
-<rect x="174" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 03 Aug: 0 tool calls</title></rect>
-<rect x="174" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 04 Aug: 247 tool calls</title></rect>
-<rect x="174" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 05 Aug: 492 tool calls</title></rect>
-<rect x="174" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 06 Aug: 3 tool calls</title></rect>
-<rect x="174" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 07 Aug: 251 tool calls</title></rect>
-<rect x="174" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 08 Aug: 0 tool calls</title></rect>
-<rect x="174" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 09 Aug: 0 tool calls</title></rect>
+<rect x="174" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 10 Aug: 28 tool calls</title></rect>
+<rect x="174" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 11 Aug: 46 tool calls</title></rect>
+<rect x="174" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 12 Aug: 23 tool calls</title></rect>
+<rect x="174" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 13 Aug: 76 tool calls</title></rect>
+<rect x="174" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 14 Aug: 71 tool calls</title></rect>
+<rect x="174" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 15 Aug: 0 tool calls</title></rect>
+<rect x="174" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 16 Aug: 0 tool calls</title></rect>
 </g>
-<text x="174" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Aug</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.498;0.592;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.498;0.592;1" dur="3.2s" fill="freeze"/>
-<rect x="189" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 10 Aug: 28 tool calls</title></rect>
-<rect x="189" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 11 Aug: 46 tool calls</title></rect>
-<rect x="189" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 12 Aug: 23 tool calls</title></rect>
-<rect x="189" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 13 Aug: 76 tool calls</title></rect>
-<rect x="189" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 14 Aug: 71 tool calls</title></rect>
-<rect x="189" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 15 Aug: 0 tool calls</title></rect>
-<rect x="189" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 16 Aug: 0 tool calls</title></rect>
+<rect x="189" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 17 Aug: 39 tool calls</title></rect>
+<rect x="189" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 18 Aug: 6 tool calls</title></rect>
+<rect x="189" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 19 Aug: 0 tool calls</title></rect>
+<rect x="189" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 20 Aug: 4 tool calls</title></rect>
+<rect x="189" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 21 Aug: 89 tool calls</title></rect>
+<rect x="189" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 22 Aug: 0 tool calls</title></rect>
+<rect x="189" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 23 Aug: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.512;0.606;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.512;0.606;1" dur="3.2s" fill="freeze"/>
-<rect x="204" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 17 Aug: 39 tool calls</title></rect>
-<rect x="204" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 18 Aug: 6 tool calls</title></rect>
-<rect x="204" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 19 Aug: 0 tool calls</title></rect>
-<rect x="204" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 20 Aug: 4 tool calls</title></rect>
-<rect x="204" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 21 Aug: 89 tool calls</title></rect>
-<rect x="204" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 22 Aug: 0 tool calls</title></rect>
-<rect x="204" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 23 Aug: 0 tool calls</title></rect>
+<rect x="204" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 24 Aug: 0 tool calls</title></rect>
+<rect x="204" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 25 Aug: 0 tool calls</title></rect>
+<rect x="204" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 26 Aug: 0 tool calls</title></rect>
+<rect x="204" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 27 Aug: 105 tool calls</title></rect>
+<rect x="204" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 28 Aug: 260 tool calls</title></rect>
+<rect x="204" y="311" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Sat 29 Aug: 11 tool calls</title></rect>
+<rect x="204" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 30 Aug: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.527;0.620;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.527;0.620;1" dur="3.2s" fill="freeze"/>
-<rect x="219" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 24 Aug: 0 tool calls</title></rect>
-<rect x="219" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 25 Aug: 0 tool calls</title></rect>
-<rect x="219" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 26 Aug: 0 tool calls</title></rect>
-<rect x="219" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 27 Aug: 105 tool calls</title></rect>
-<rect x="219" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 28 Aug: 260 tool calls</title></rect>
-<rect x="219" y="311" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Sat 29 Aug: 11 tool calls</title></rect>
-<rect x="219" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 30 Aug: 0 tool calls</title></rect>
+<rect x="219" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 31 Aug: 71 tool calls</title></rect>
+<rect x="219" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 01 Sep: 20 tool calls</title></rect>
+<rect x="219" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 02 Sep: 44 tool calls</title></rect>
+<rect x="219" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 03 Sep: 17 tool calls</title></rect>
+<rect x="219" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 04 Sep: 74 tool calls</title></rect>
+<rect x="219" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 05 Sep: 0 tool calls</title></rect>
+<rect x="219" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 06 Sep: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.541;0.634;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.541;0.634;1" dur="3.2s" fill="freeze"/>
-<rect x="234" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 31 Aug: 71 tool calls</title></rect>
-<rect x="234" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 01 Sep: 20 tool calls</title></rect>
-<rect x="234" y="266" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Wed 02 Sep: 44 tool calls</title></rect>
-<rect x="234" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 03 Sep: 17 tool calls</title></rect>
-<rect x="234" y="296" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Fri 04 Sep: 74 tool calls</title></rect>
-<rect x="234" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 05 Sep: 0 tool calls</title></rect>
-<rect x="234" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 06 Sep: 0 tool calls</title></rect>
+<rect x="234" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 07 Sep: 0 tool calls</title></rect>
+<rect x="234" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 08 Sep: 0 tool calls</title></rect>
+<rect x="234" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 09 Sep: 0 tool calls</title></rect>
+<rect x="234" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 10 Sep: 0 tool calls</title></rect>
+<rect x="234" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 11 Sep: 0 tool calls</title></rect>
+<rect x="234" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 12 Sep: 0 tool calls</title></rect>
+<rect x="234" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 13 Sep: 0 tool calls</title></rect>
 </g>
+<text x="234" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Sep</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.555;0.648;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.555;0.648;1" dur="3.2s" fill="freeze"/>
-<rect x="249" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 07 Sep: 0 tool calls</title></rect>
-<rect x="249" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 08 Sep: 0 tool calls</title></rect>
-<rect x="249" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 09 Sep: 0 tool calls</title></rect>
-<rect x="249" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 10 Sep: 0 tool calls</title></rect>
-<rect x="249" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 11 Sep: 0 tool calls</title></rect>
-<rect x="249" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 12 Sep: 0 tool calls</title></rect>
-<rect x="249" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 13 Sep: 0 tool calls</title></rect>
+<rect x="249" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 14 Sep: 0 tool calls</title></rect>
+<rect x="249" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 15 Sep: 0 tool calls</title></rect>
+<rect x="249" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 16 Sep: 0 tool calls</title></rect>
+<rect x="249" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 17 Sep: 0 tool calls</title></rect>
+<rect x="249" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 18 Sep: 0 tool calls</title></rect>
+<rect x="249" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 19 Sep: 0 tool calls</title></rect>
+<rect x="249" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 20 Sep: 0 tool calls</title></rect>
 </g>
-<text x="249" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Sep</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.569;0.662;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.569;0.662;1" dur="3.2s" fill="freeze"/>
-<rect x="264" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 14 Sep: 0 tool calls</title></rect>
-<rect x="264" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 15 Sep: 0 tool calls</title></rect>
-<rect x="264" y="266" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Wed 16 Sep: 0 tool calls</title></rect>
-<rect x="264" y="281" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Thu 17 Sep: 0 tool calls</title></rect>
-<rect x="264" y="296" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Fri 18 Sep: 0 tool calls</title></rect>
-<rect x="264" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 19 Sep: 0 tool calls</title></rect>
-<rect x="264" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 20 Sep: 0 tool calls</title></rect>
+<rect x="264" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 21 Sep: 0 tool calls</title></rect>
+<rect x="264" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 22 Sep: 0 tool calls</title></rect>
+<rect x="264" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 23 Sep: 14 tool calls</title></rect>
+<rect x="264" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 24 Sep: 9 tool calls</title></rect>
+<rect x="264" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 25 Sep: 10 tool calls</title></rect>
+<rect x="264" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 26 Sep: 0 tool calls</title></rect>
+<rect x="264" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 27 Sep: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.583;0.677;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.583;0.677;1" dur="3.2s" fill="freeze"/>
-<rect x="279" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 21 Sep: 0 tool calls</title></rect>
-<rect x="279" y="251" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Tue 22 Sep: 0 tool calls</title></rect>
-<rect x="279" y="266" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Wed 23 Sep: 14 tool calls</title></rect>
-<rect x="279" y="281" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Thu 24 Sep: 9 tool calls</title></rect>
-<rect x="279" y="296" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Fri 25 Sep: 10 tool calls</title></rect>
-<rect x="279" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 26 Sep: 0 tool calls</title></rect>
-<rect x="279" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 27 Sep: 0 tool calls</title></rect>
+<rect x="279" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 28 Sep: 90 tool calls</title></rect>
+<rect x="279" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 29 Sep: 15 tool calls</title></rect>
+<rect x="279" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 30 Sep: 295 tool calls</title></rect>
+<rect x="279" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 01 Oct: 75 tool calls</title></rect>
+<rect x="279" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 02 Oct: 147 tool calls</title></rect>
+<rect x="279" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 03 Oct: 136 tool calls</title></rect>
+<rect x="279" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 04 Oct: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.597;0.691;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.597;0.691;1" dur="3.2s" fill="freeze"/>
-<rect x="294" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 28 Sep: 90 tool calls</title></rect>
-<rect x="294" y="251" width="12" height="12" rx="2.5" fill="#c6e9cf"><title>Tue 29 Sep: 15 tool calls</title></rect>
-<rect x="294" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 30 Sep: 295 tool calls</title></rect>
-<rect x="294" y="281" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Thu 01 Oct: 75 tool calls</title></rect>
-<rect x="294" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 02 Oct: 147 tool calls</title></rect>
-<rect x="294" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 03 Oct: 136 tool calls</title></rect>
-<rect x="294" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 04 Oct: 0 tool calls</title></rect>
+<rect x="294" y="236" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Mon 05 Oct: 96 tool calls</title></rect>
+<rect x="294" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 06 Oct: 283 tool calls</title></rect>
+<rect x="294" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 07 Oct: 288 tool calls</title></rect>
+<rect x="294" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 08 Oct: 292 tool calls</title></rect>
+<rect x="294" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 09 Oct: 250 tool calls</title></rect>
+<rect x="294" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 10 Oct: 0 tool calls</title></rect>
+<rect x="294" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 11 Oct: 0 tool calls</title></rect>
 </g>
+<text x="294" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Oct</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.611;0.705;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.611;0.705;1" dur="3.2s" fill="freeze"/>
-<rect x="309" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 05 Oct: 96 tool calls</title></rect>
-<rect x="309" y="251" width="12" height="12" rx="2.5" fill="#3fb950"><title>Tue 06 Oct: 283 tool calls</title></rect>
-<rect x="309" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 07 Oct: 288 tool calls</title></rect>
-<rect x="309" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 08 Oct: 292 tool calls</title></rect>
-<rect x="309" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 09 Oct: 250 tool calls</title></rect>
-<rect x="309" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 10 Oct: 0 tool calls</title></rect>
-<rect x="309" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 11 Oct: 0 tool calls</title></rect>
+<rect x="309" y="236" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Mon 12 Oct: 829 tool calls</title></rect>
+<rect x="309" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 13 Oct: 788 tool calls</title></rect>
+<rect x="309" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 14 Oct: 334 tool calls</title></rect>
+<rect x="309" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 15 Oct: 387 tool calls</title></rect>
+<rect x="309" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 16 Oct: 177 tool calls</title></rect>
+<rect x="309" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 17 Oct: 0 tool calls</title></rect>
+<rect x="309" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 18 Oct: 0 tool calls</title></rect>
 </g>
-<text x="309" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Oct</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.625;0.719;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.625;0.719;1" dur="3.2s" fill="freeze"/>
-<rect x="324" y="236" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Mon 12 Oct: 829 tool calls</title></rect>
-<rect x="324" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 13 Oct: 788 tool calls</title></rect>
-<rect x="324" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 14 Oct: 334 tool calls</title></rect>
-<rect x="324" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 15 Oct: 387 tool calls</title></rect>
-<rect x="324" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 16 Oct: 177 tool calls</title></rect>
-<rect x="324" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 17 Oct: 0 tool calls</title></rect>
-<rect x="324" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 18 Oct: 0 tool calls</title></rect>
+<rect x="324" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 19 Oct: 242 tool calls</title></rect>
+<rect x="324" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 20 Oct: 64 tool calls</title></rect>
+<rect x="324" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 21 Oct: 482 tool calls</title></rect>
+<rect x="324" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 22 Oct: 394 tool calls</title></rect>
+<rect x="324" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 23 Oct: 586 tool calls</title></rect>
+<rect x="324" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 24 Oct: 106 tool calls</title></rect>
+<rect x="324" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 25 Oct: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.639;0.733;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.639;0.733;1" dur="3.2s" fill="freeze"/>
-<rect x="339" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 19 Oct: 242 tool calls</title></rect>
-<rect x="339" y="251" width="12" height="12" rx="2.5" fill="#8fd19e"><title>Tue 20 Oct: 64 tool calls</title></rect>
-<rect x="339" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 21 Oct: 482 tool calls</title></rect>
-<rect x="339" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 22 Oct: 394 tool calls</title></rect>
-<rect x="339" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 23 Oct: 586 tool calls</title></rect>
-<rect x="339" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 24 Oct: 106 tool calls</title></rect>
-<rect x="339" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 25 Oct: 0 tool calls</title></rect>
+<rect x="339" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 26 Oct: 0 tool calls</title></rect>
+<rect x="339" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 27 Oct: 564 tool calls</title></rect>
+<rect x="339" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 28 Oct: 1307 tool calls</title></rect>
+<rect x="339" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 29 Oct: 1264 tool calls</title></rect>
+<rect x="339" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 30 Oct: 556 tool calls</title></rect>
+<rect x="339" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 31 Oct: 0 tool calls</title></rect>
+<rect x="339" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 01 Nov: 0 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.653;0.747;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.653;0.747;1" dur="3.2s" fill="freeze"/>
-<rect x="354" y="236" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Mon 26 Oct: 0 tool calls</title></rect>
-<rect x="354" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 27 Oct: 564 tool calls</title></rect>
-<rect x="354" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 28 Oct: 1307 tool calls</title></rect>
-<rect x="354" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 29 Oct: 1264 tool calls</title></rect>
-<rect x="354" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 30 Oct: 556 tool calls</title></rect>
-<rect x="354" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 31 Oct: 0 tool calls</title></rect>
-<rect x="354" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 01 Nov: 0 tool calls</title></rect>
+<rect x="354" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 02 Nov: 207 tool calls</title></rect>
+<rect x="354" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 03 Nov: 910 tool calls</title></rect>
+<rect x="354" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 04 Nov: 177 tool calls</title></rect>
+<rect x="354" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 05 Nov: 538 tool calls</title></rect>
+<rect x="354" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 06 Nov: 384 tool calls</title></rect>
+<rect x="354" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 07 Nov: 0 tool calls</title></rect>
+<rect x="354" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 08 Nov: 0 tool calls</title></rect>
 </g>
+<text x="354" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Nov</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.667;0.761;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.667;0.761;1" dur="3.2s" fill="freeze"/>
-<rect x="369" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 02 Nov: 207 tool calls</title></rect>
-<rect x="369" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 03 Nov: 910 tool calls</title></rect>
-<rect x="369" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 04 Nov: 177 tool calls</title></rect>
-<rect x="369" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 05 Nov: 538 tool calls</title></rect>
-<rect x="369" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 06 Nov: 384 tool calls</title></rect>
-<rect x="369" y="311" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sat 07 Nov: 0 tool calls</title></rect>
-<rect x="369" y="326" width="12" height="12" rx="2.5" fill="#ebedf0"><title>Sun 08 Nov: 0 tool calls</title></rect>
+<rect x="369" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 09 Nov: 233 tool calls</title></rect>
+<rect x="369" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 10 Nov: 2207 tool calls</title></rect>
+<rect x="369" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 11 Nov: 509 tool calls</title></rect>
+<rect x="369" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 12 Nov: 675 tool calls</title></rect>
+<rect x="369" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 13 Nov: 723 tool calls</title></rect>
+<rect x="369" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 14 Nov: 220 tool calls</title></rect>
+<rect x="369" y="326" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sun 15 Nov: 786 tool calls</title></rect>
 </g>
-<text x="369" y="353" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">Nov</text>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.681;0.775;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.681;0.775;1" dur="3.2s" fill="freeze"/>
-<rect x="384" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 09 Nov: 233 tool calls</title></rect>
-<rect x="384" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 10 Nov: 2207 tool calls</title></rect>
-<rect x="384" y="266" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Wed 11 Nov: 509 tool calls</title></rect>
-<rect x="384" y="281" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Thu 12 Nov: 675 tool calls</title></rect>
-<rect x="384" y="296" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Fri 13 Nov: 723 tool calls</title></rect>
-<rect x="384" y="311" width="12" height="12" rx="2.5" fill="#3fb950"><title>Sat 14 Nov: 220 tool calls</title></rect>
-<rect x="384" y="326" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sun 15 Nov: 786 tool calls</title></rect>
+<rect x="384" y="236" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Mon 16 Nov: 417 tool calls</title></rect>
+<rect x="384" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 17 Nov: 553 tool calls</title></rect>
+<rect x="384" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 18 Nov: 238 tool calls</title></rect>
+<rect x="384" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 19 Nov: 188 tool calls</title></rect>
+<rect x="384" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 20 Nov: 101 tool calls</title></rect>
+<rect x="384" y="311" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sat 21 Nov: 1575 tool calls</title></rect>
+<rect x="384" y="326" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sun 22 Nov: 514 tool calls</title></rect>
 </g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.695;0.789;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 0;0 0" keyTimes="0;0.695;0.789;1" dur="3.2s" fill="freeze"/>
-<rect x="399" y="236" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Mon 16 Nov: 417 tool calls</title></rect>
-<rect x="399" y="251" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Tue 17 Nov: 553 tool calls</title></rect>
-<rect x="399" y="266" width="12" height="12" rx="2.5" fill="#3fb950"><title>Wed 18 Nov: 238 tool calls</title></rect>
-<rect x="399" y="281" width="12" height="12" rx="2.5" fill="#3fb950"><title>Thu 19 Nov: 188 tool calls</title></rect>
-<rect x="399" y="296" width="12" height="12" rx="2.5" fill="#3fb950"><title>Fri 20 Nov: 101 tool calls</title></rect>
-<rect x="399" y="311" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sat 21 Nov: 1575 tool calls</title></rect>
-<rect x="399" y="326" width="12" height="12" rx="2.5" fill="#1a7f37"><title>Sun 22 Nov: 514 tool calls</title></rect>
+<rect x="399" y="236" width="12" height="12" rx="2.5" fill="#3fb950"><title>Mon 23 Nov: 295 tool calls</title></rect>
 </g>
 <text x="280" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#656d76">less</text>
 <rect x="306" y="213" width="10" height="10" rx="2" fill="#ebedf0"/>
@@ -290,8 +284,8 @@
 <text x="470" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">Model mix · share of generated tokens</text>
 <rect x="470" y="236" width="346" height="12" rx="6" fill="#eaeef2"/>
 <clipPath id="bar"><rect x="470" y="236" width="346" height="12" rx="6"><animate attributeName="width" values="0;0;346;346" keyTimes="0;0.312;0.594;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect></clipPath><g clip-path="url(#bar)">
-<rect x="470.0" y="236" width="256.6" height="12" fill="#d4a72c"/>
-<rect x="726.6" y="236" width="85.9" height="12" fill="#3fb950"/>
+<rect x="470.0" y="236" width="257.0" height="12" fill="#d4a72c"/>
+<rect x="727.0" y="236" width="85.5" height="12" fill="#3fb950"/>
 <rect x="812.5" y="236" width="1.9" height="12" fill="#8fae7e"/>
 <rect x="814.4" y="236" width="1.6" height="12" fill="#8b949e"/>
 </g>
@@ -301,9 +295,9 @@
 <text x="606" y="269" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Sonnet <tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#656d76">25%</tspan></text></g>
 <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 6;0 6;0 0;0 0" keyTimes="0;0.469;0.609;1" dur="3.2s" fill="freeze"/><circle cx="715" cy="265" r="5" fill="#8fae7e"/>
 <text x="726" y="269" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#1f2328">Haiku <tspan font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#656d76">1%</tspan></text></g>
-<text x="470" y="308" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">When I start sessions · 639 sessions over 106 days</text>
+<text x="470" y="308" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#656d76">When I start sessions · 641 sessions over 107 days</text>
 <rect x="471.5" y="375.1" width="11.4" height="8.9" rx="2" fill="#3fb950"><title>12am–1am: 32 sessions</title><animate attributeName="height" values="0;0;8.9;8.9" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;375.1;375.1" keyTimes="0;0.500;0.688;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
-<rect x="485.9" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>1am–2am: 4 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
+<rect x="485.9" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>1am–2am: 5 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.509;0.697;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="500.3" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>2am–3am: 4 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.519;0.706;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="514.8" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>3am–4am: 2 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.528;0.716;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.528;0.716;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="529.2" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>4am–5am: 1 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.537;0.725;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.537;0.725;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
@@ -314,7 +308,7 @@
 <rect x="601.2" y="320.0" width="11.4" height="64.0" rx="2" fill="#d4a72c"><title>9am–10am: 231 sessions</title><animate attributeName="height" values="0;0;64.0;64.0" keyTimes="0;0.584;0.772;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;320.0;320.0" keyTimes="0;0.584;0.772;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="615.7" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>10am–11am: 1 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.594;0.781;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.594;0.781;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="630.1" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>11am–12pm: 1 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.603;0.791;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.603;0.791;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
-<rect x="644.5" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>12pm–1pm: 3 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
+<rect x="644.5" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>12pm–1pm: 4 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.612;0.800;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="658.9" y="381.8" width="11.4" height="2.2" rx="2" fill="#3fb950"><title>1pm–2pm: 8 sessions</title><animate attributeName="height" values="0;0;2.2;2.2" keyTimes="0;0.622;0.809;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;381.8;381.8" keyTimes="0;0.622;0.809;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="673.3" y="336.9" width="11.4" height="47.1" rx="2" fill="#3fb950"><title>2pm–3pm: 170 sessions</title><animate attributeName="height" values="0;0;47.1;47.1" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;336.9;336.9" keyTimes="0;0.631;0.819;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
 <rect x="687.8" y="382.0" width="11.4" height="2.0" rx="2" fill="#3fb950"><title>3pm–4pm: 3 sessions</title><animate attributeName="height" values="0;0;2.0;2.0" keyTimes="0;0.641;0.828;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/><animate attributeName="y" values="384;384;382.0;382.0" keyTimes="0;0.641;0.828;1" dur="3.2s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1;0 0 1 1"/></rect>
